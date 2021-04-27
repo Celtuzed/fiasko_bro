@@ -1,13 +1,6 @@
 Fiasko Bro
 ==========
 
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | 00 |
-| col 2 is      | centered        |    |
-| zebra stripes | are neat        |     |
-
    When flake8 is not enough.
 
 .. image:: https://travis-ci.org/devmanorg/fiasko_bro.svg?branch=master
